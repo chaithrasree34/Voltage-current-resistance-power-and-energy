@@ -1,1 +1,0 @@
-# Voltage-current-resistance-power-and-energy
